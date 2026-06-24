@@ -44,4 +44,12 @@ tk240329, Hello IPUT!
 iput2024-kawata, ２回目
 tk240030, systemctl destroy firewalld
 IPUT-suzuki, オレは高校生シェル芸人sudo新一
+IPUT2024-kinoshita わたしは幼馴染で同級生のmore利蘭です。
+iput2024-kofukada, hihihi
+iput2024-kofukada,
+iput2024-kofukada, develop branch
+iput2024-kofukada,
+iput2024-kofukada, conflict-test branch
+portichihara: ワーク07 Pull Request のための変更です。
+iput takahasi, 確認
 iput2024-fujita,日本対スウェーデンは2-1で勝ち
