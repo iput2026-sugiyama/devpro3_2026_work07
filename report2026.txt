@@ -52,3 +52,4 @@ iput2024-kofukada,
 iput2024-kofukada, conflict-test branch
 portichihara: ワーク07 Pull Request のための変更です。
 iput takahasi, 確認
+iput2024-fujita,日本対スウェーデンは2-1で勝ち
